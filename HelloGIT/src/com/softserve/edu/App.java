@@ -1,8 +1,8 @@
 package com.softserve.edu;
 
 class Figure {
-    public double getPerimeter(double a, double b) {
-        return 2*(a+b);
+    public double getArea(double a, double b) {
+        return a*b;
     }
 }
 
